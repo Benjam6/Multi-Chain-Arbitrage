@@ -4,3 +4,6 @@ executes arbitrage opportunities in virtually every v2 & v3 dex on arbitrum, bsc
 # See dependencies in package.json
 -----------------------------
 **Modify the .env file and delete its name**
+
+yarn install
+yarn start
